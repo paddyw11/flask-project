@@ -1,0 +1,7 @@
+.hero {
+    background: url("/static/img/home-bg.jpg") no-repeat center center;
+}
+
+.col-md-5 img {
+    width: 100%;
+}
